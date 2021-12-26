@@ -1,0 +1,9 @@
+{
+	"name": "ADF-synapse-us-2021",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fa3832c9-048f-40a9-a97d-984bd0e7715f",
+		"tenantId": "0527e588-fd1c-4806-b18b-9774fcd20edc"
+	}
+}
