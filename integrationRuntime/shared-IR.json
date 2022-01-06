@@ -1,0 +1,7 @@
+{
+	"name": "shared-IR",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "Shared self-hosted integration runtime to implement multiple data factories sharing a self-hosted IR"
+	}
+}
